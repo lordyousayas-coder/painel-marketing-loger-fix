@@ -25,3 +25,7 @@ Nenhuma chave de API é necessária para consultar a versão incorporada. Os lin
 Base de demandas: 18/11/2026, revisão 14. Dados sociais possuem períodos próprios, indicados no painel.
 
 Este pacote não concede licença de reutilização das marcas, dos dados ou dos materiais da empresa.
+
+## Referência visual
+
+Layout inspirado no [Paperpillar — Property Management Dashboard UI Kit](https://www.figma.com/design/QyUVUaQW89nWjKmeUCxCf7/Property-Management-Dashboard-UI-Kit---Paperpillar--Community-?node-id=5-4), adaptado à identidade LOGER. Símbolo oficial fornecido pelo responsável e ícones SVG do próprio painel; os arquivos de ícones originais do Figma não foram extraídos. Menu compacto com nomes acessíveis e opção de expansão. No celular, navegação com nomes e símbolo centralizado.
